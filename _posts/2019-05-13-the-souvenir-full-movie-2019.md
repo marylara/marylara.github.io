@@ -1,5 +1,5 @@
 ---
-title: The Souvenir full movie 2019
+title: The Souvenir full movie 2019 Free
 image: "/uploads/sou.png"
 layout: post
 categories:
@@ -9,7 +9,8 @@ categories:
 - 1080p
 - Film 2019
 tags:
-- Sticky
+- featured
+- sticky
 
 ---
 The Souvenir, a shy film understudy starts discovering her voice as a craftsman while exploring a tempestuous romance with a magnetic however deceitful man. She resists her defensive mother and concerned companions as she slips further and more profound into an extraordinary, genuinely loaded relationship which verges on decimating her fantasies.

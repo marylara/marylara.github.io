@@ -4,8 +4,8 @@ image: "/uploads/booksmart.jpg"
 layout: post
 categories: []
 tags:
+- sticky
 - featured
-- Sticky
 
 ---
 The story pursues Dever and Feldstein's characters, two scholastic hotshots and closest companions who, on the eve of their secondary school graduation, all of a sudden understand that they ought to have worked less and played more. Decided never to miss the mark regarding their friends, the young ladies set out determined to pack four years of fun into one night.

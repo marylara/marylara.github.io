@@ -4,6 +4,7 @@ image: "/uploads/booksmart.jpg"
 layout: post
 categories: []
 tags:
+- featured
 - Sticky
 
 ---

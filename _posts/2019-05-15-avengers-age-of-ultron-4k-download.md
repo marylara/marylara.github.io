@@ -9,6 +9,7 @@ categories:
 - Marvel
 tags:
 - sticky
+rating: 4
 
 ---
 At the point when Tony Stark attempts to kick off a torpid peacekeeping system, things go amiss and Earth's Mightiest Heroes are put to a definitive test as the destiny of earth remains in a critical state. As the abhorrent Ultron develops, it is dependent upon The Avengers to prevent him from instituting his horrible plans, and soon uneasy coalitions and surprising activity make ready for an epic and one of a kind worldwide experience.
